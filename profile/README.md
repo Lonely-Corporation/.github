@@ -1,2 +1,2 @@
-![Banner](Banner.png)
+![Banner](LCBanner.png)
 # Lonely Corporation
