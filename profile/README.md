@@ -1,2 +1,2 @@
 ![Banner](LCBanner.png)
-# Lonely Corporation
+## Hi
